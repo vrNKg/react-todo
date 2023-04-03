@@ -1,0 +1,10 @@
+.list-items {
+    padding: 0;
+}
+
+.buttons {
+    display: flex;
+    gap: 5px;
+    margin-left: 2rem;
+
+}
